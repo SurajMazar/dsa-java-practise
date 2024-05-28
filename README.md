@@ -10,3 +10,10 @@ Everytime a problem is solved 🤓 -  Will be added on the list 🗒️
 |----|-------------------|
 | 1  | TWO SUM           |
 | 2  | VALID SUBSEQUENCE |
+
+### Stack ☀️
+### Medium ☀️
+
+| SN | Problems        |
+|----|-----------------|
+| 1  | Min - Max Stack |
