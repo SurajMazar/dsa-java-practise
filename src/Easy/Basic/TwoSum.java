@@ -2,9 +2,8 @@
  * TWO ARRAY SUM
  * SOLUTION 2 POINTERS
  */
-package Easy;
+package Easy.Basic;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class TwoSum {

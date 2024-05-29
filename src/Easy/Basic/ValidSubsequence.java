@@ -14,7 +14,7 @@
  * 4. IF B === LENGTH OF SEQUENCE -> IT IS A VALID SUBSEQUENT (ALL ELEMENT WITH CORRECT POSITION HAS BEEN FOUND AND MAPPED)
  */
 
-package Easy;
+package Easy.Basic;
 
 public class ValidSubsequence {
 

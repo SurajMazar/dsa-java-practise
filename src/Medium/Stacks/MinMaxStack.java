@@ -15,7 +15,7 @@
  * TIME COMPLEXITY 0(1) space o(1)
  */
 
-package Stacks.Medium;
+package Medium.Stacks;
 
 import java.util.ArrayList;
 import java.util.HashMap;

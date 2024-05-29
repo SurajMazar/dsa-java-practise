@@ -1,19 +1,19 @@
 # DSA PRACTISE - JAVA ☕️
 
-Everytime a problem is solved 🤓 -  Will be added on the list 🗒️
+Every practised solution 🤓 - Will be added on the list 🗒️
 
 ## Problems 🫣
 
 ### Easy ☀️
 
-| SN | Problems          |
-|----|-------------------|
-| 1  | TWO SUM           |
-| 2  | VALID SUBSEQUENCE |
+| SN | TYPE        | Problems             |
+|----|-------------|----------------------|
+| 1  | BASIC       | TWO SUM              |
+| 2  | BASIC       | VALID SUBSEQUENCE    |
+| 2  | LINKED-LIST | CREATE A LINKED LIST |
 
-### Stack ☀️
 ### Medium ☀️
 
-| SN | Problems        |
-|----|-----------------|
-| 1  | Min - Max Stack |
+| SN | TYPE  | Problems      |
+|----|-------|---------------|
+| 1  | STACK | MIN-MAX STACK |
